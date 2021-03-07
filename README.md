@@ -30,7 +30,13 @@ Here are some ideas to get you started:
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Anvi98)
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Anvi98)
 
- #### Business Skills:
+#### Frameworks:
+[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/Anvi98)
+[![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](https://github.com/Anvi98)
+[![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/Anvi98)
+[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Anvi98)
+
+#### Business Skills:
 [![SAP BY DESIGN](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/Anvi98)
 
 
@@ -38,10 +44,5 @@ Here are some ideas to get you started:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvi98&layout=compact)](https://github.com/Anvi98/github-readme-stats)
 
-#### Frameworks:
-[![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/Anvi98)
-[![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)](https://github.com/Anvi98)
-[![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/Anvi98)
-[![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Anvi98)
 ****
 
