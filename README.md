@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/Anvi98/Anvi98/blob/main/anvi.gif" alt="Anvi gif" title="Databay showcase gif" width="1000"/>
+<img src="https://github.com/Anvi98/Anvi98/blob/main/anvi.gif" alt="Anvi gif" title="Hello World !! gif" width="1000"/>
 
 ### Hey! I'm [Anvi Alex Eponon](https://www.linkedin.com/in/anvi-alex-eponon/) 👋 
 
