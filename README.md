@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:epononanvialex@gmail.com)
 
 ****
-###  ABOUT ME 👩🏽
+###  ABOUT ME 
  💼 &nbsp; Currently Learning awesome technical stacks <br>
  🔭 &nbsp; Looking for new opportunities to share knowledges, create stuffs, support and enjoy !!<br>
  😄 &nbsp; I Love Daft Punk, and Nikola Tesla...
