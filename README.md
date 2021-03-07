@@ -42,9 +42,6 @@ Here are some ideas to get you started:
 #### Business Skills:
 [![SAP BY DESIGN](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/Anvi98)
 
-[![Anvi98 GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvi98)](https://github.com/Anvi98/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvi98&layout=compact)](https://github.com/Anvi98/github-readme-stats)
-
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Anvi98" height="200px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvi98&hide=html" height="200px" width="35%"/>
