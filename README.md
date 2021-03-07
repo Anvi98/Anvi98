@@ -12,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey! I'm [Anvi Alex Eponon](https://www.linkedin.com/in/anvi-alex-eponon/) 👋 
 ![](https://github.com/Anvi98/Anvi98/blob/main/anvi.gif)
+### Hey! I'm [Anvi Alex Eponon](https://www.linkedin.com/in/anvi-alex-eponon/) 👋 
+
 [![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:epononanvialex@gmail.com)
 
 ****
