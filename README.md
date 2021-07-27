@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  ![](https://komarev.com/ghpvc/?username=Anvi98)
  ****
  ### Bio
- I’m Anvi Alex, a Junior software engineer. I have recently participated in a 6 month Bootcamp as a Microverse student while pursuing my master’s degree in software  engineering. It was an intense moment where I learned so many valuable skills as theoretical and practical. I built different real-world projects with Javascript, React, Ruby On Rails, but also Python for Data Science projects within that period. I’m interested in tech-based education, finance but also artificial intelligence. 
+ I’m Anvi Alex, a Junior software engineer. I am participating in a Bootcamp as a Microverse student while pursuing my master’s degree in software engineering. It is an intense moment where I am learning so many valuable skills as theoretical and practical while collaborating with coders in the world. I am building different real-world projects with Javascript, React, Ruby On Rails, also Python for Data Science & Ai projects. I am interested in companies tech-based education, finance but also artificial intelligence. Hey, I am open to any opportunity.
  ### SKILLS 🔧 ⚙️
  #### Programming Languages:
 [![PYHTON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Anvi98)
