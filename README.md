@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ###  ABOUT ME 
  💼 &nbsp; Currently Learning awesome technical stacks <br>
  🔭 &nbsp; Looking for new opportunities to share knowledges, create stuffs, support and enjoy !!<br>
- 😄 &nbsp; I Love Daft Punk, and Nikola Tesla...<br>
+ 😄 &nbsp; I Love Daft Punk, and Nikola Tesla...<br><br>
  ![](https://komarev.com/ghpvc/?username=Anvi98)
  ****
  ### SKILLS 🔧 ⚙️
