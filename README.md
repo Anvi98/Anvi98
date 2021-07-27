@@ -27,6 +27,8 @@ Here are some ideas to get you started:
  😄 &nbsp; I Love Daft Punk, and Nikola Tesla...<br><br>
  ![](https://komarev.com/ghpvc/?username=Anvi98)
  ****
+ ### Bio
+ I’m Anvi Alex, a Junior software engineer. I have recently participated in a 6 month Bootcamp as a Microverse student while pursuing my master’s degree in software  engineering. It was an intense moment where I learned so many valuable skills as theoretical and practical. I built different real-world projects with Javascript, React, Ruby On Rails, but also Python for Data Science projects within that period. I’m interested in tech-based education, finance but also artificial intelligence. 
  ### SKILLS 🔧 ⚙️
  #### Programming Languages:
 [![PYHTON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Anvi98)
