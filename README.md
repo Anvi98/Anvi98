@@ -23,6 +23,7 @@ Here are some ideas to get you started:
  💼 &nbsp; Currently Learning awesome technical stacks <br>
  🔭 &nbsp; Looking for new opportunities to share knowledges, create stuffs, support and enjoy !!<br>
  😄 &nbsp; I Love Daft Punk, and Nikola Tesla...
+ ![](https://komarev.com/ghpvc/?username=your-github-username)
  ****
  ### SKILLS 🔧 ⚙️
  #### Programming Languages:
@@ -47,4 +48,3 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvi98&hide=html" height="200px" width="40%"/>
 </div>
 ****
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DC8A1&title_bg=%23FDFDFD&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
