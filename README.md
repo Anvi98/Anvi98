@@ -42,8 +42,7 @@ Here are some ideas to get you started:
 [![Rails](https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)](https://github.com/Anvi98)
 [![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Anvi98)
 
-#### Business Skills:
-[![SAP BY DESIGN](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)](https://github.com/Anvi98)
+#### Stats:
 
 <div display="flex">
   <img src="https://github-readme-stats.vercel.app/api?username=Anvi98" height="200px"/> 
