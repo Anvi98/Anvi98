@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 
 ### Hey! I'm [Anvi Alex Eponon](https://www.linkedin.com/in/anvi-alex-eponon/) 👋 
 
-[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:epononanvialex@gmail.com) <br>
-![](https://komarev.com/ghpvc/?username=Anvi98)
+[![Gmail Badge](https://img.shields.io/badge/gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:epononanvialex@gmail.com) 
+
 
 
 ****
 ###  ABOUT ME 
  💼 &nbsp; Currently Learning awesome technical stacks <br>
  🔭 &nbsp; Looking for new opportunities to share knowledges, create stuffs, support and enjoy !!<br>
- 😄 &nbsp; I Love Daft Punk, and Nikola Tesla...
+ 😄 &nbsp; I Love Daft Punk, and Nikola Tesla...<br>
+ ![](https://komarev.com/ghpvc/?username=Anvi98)
  ****
  ### SKILLS 🔧 ⚙️
  #### Programming Languages:
