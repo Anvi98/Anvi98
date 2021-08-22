@@ -50,4 +50,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=Anvi98" height="200px"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anvi98&hide=html" height="200px" width="40%"/>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ****
