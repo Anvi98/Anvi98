@@ -22,19 +22,23 @@ Here are some ideas to get you started:
 
 ****
 ###  ABOUT ME 
- 💼 &nbsp; Currently Learning awesome technical stacks <br>
- 🔭 &nbsp; Looking for new opportunities to share knowledges, create stuffs, support and enjoy !!<br>
- 😄 &nbsp; I Love Daft Punk, and Nikola Tesla...<br><br>
+ 💼 &nbsp; Currently A Ph.D. student at CIC-IPN in NLP <br>
+ 🔭 &nbsp; Looking for new opportunities to share knowledge, create stuff, support, and enjoy !!<br>
+ 😄 &nbsp; I Love Philosophy, Science and Nikola Tesla...<br><br>
  ![](https://komarev.com/ghpvc/?username=Anvi98)
  ****
 
  ### SKILLS 🔧 ⚙️
  #### Programming Languages:
 [![PYHTON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Anvi98)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Anvi98)
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)](https://github.com/Anvi98)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Anvi98)
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Anvi98)
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Anvi98)
+
+#### PREFERED SYSTEM
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/Anvi98)
 
 #### Frameworks:
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://github.com/Anvi98)
